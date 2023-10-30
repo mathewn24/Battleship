@@ -1,7 +1,6 @@
 // By: mathewn24
 #include <iostream>
 #include "battleshipboard.h"
-/* You may add extra standard library headers if you see fit */
 
 int main() {
     // prompt user for seed, game mode, ships setup before gameplay
