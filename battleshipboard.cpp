@@ -1,6 +1,4 @@
-// Name:       Mathews Noel
-// Student ID: 1155130840
-// Email:      1155130840@link.cuhk.edu.hk
+// By: mathewn24
 
 #include <iostream>
 #include <iomanip>

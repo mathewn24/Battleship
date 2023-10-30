@@ -1,7 +1,4 @@
-// Name:       Mathews Noel
-// Student ID: 1155130840
-// Email:      1155130840@link.cuhk.edu.hk
-
+// By: mathewn24
 #include <iostream>
 #include "battleshipboard.h"
 /* You may add extra standard library headers if you see fit */
